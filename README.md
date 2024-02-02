@@ -18,6 +18,7 @@ I am a Machine Learning Developer, working majorly with NLP tools and building L
 
 
 ## 📕My Latest Blogs
+- [End-to-end ML model deployment using AWS SageMaker: Project review](https://medium.com/@pratishsmashankar/end-to-end-ml-model-deployment-using-aws-sagemaker-project-review-90df945d90df)
 - [Yet another ML recipe](https://medium.com/@pratishsmashankar/yet-another-ml-recipe-e808068ee273)
 - [Excel Data Manipulation using VBA and Python ](https://medium.com/@pratishsmashankar/excel-data-manipulation-using-vba-and-python-color-rows-114df8d1d51b)
 
