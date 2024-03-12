@@ -4,7 +4,7 @@
 I am a Machine Learning Developer, working majorly with NLP tools and building Large Language Models. Language being my fascination, I love to write, learn and teach. 
 
 - 🔭 I’m currently working on **ML Model Deployment**
-- 🌱 I’m currently learning **LangChain**
+- 🌱 I’m currently learning **Terraform, NLP Frameworks, ETL**
 - 💬 Ask me about **LLMs, Neural Networks, Data Mining**
 - 📫 How to reach me **pratishsmashankar@gmail.com**
 - ✍ Find my **tech-blogs** [here](https://medium.com/@pratishsmashankar)
